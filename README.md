@@ -15,5 +15,5 @@ Hiscore collects only the data needed to create and manage your account:
 Data is stored securely via **Supabase** and encrypted in transfer.  
 We do **not** share or sell any personal information.  
 
-You can delete your account anytime by emailing  
-📧 **arvidblaser+hiscore@outlook.com**
+You can delete your account or any data data associated to your account by emailing  
+**arvidblaser+hiscore@outlook.com**
